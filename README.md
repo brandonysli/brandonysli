@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Check out my current work here: https://megascenes.github.io/web-viewer/
+- Check out my latest work here: https://megascenes.github.io/web-viewer/
 - Feedback is welcomed and appreciated!
 
 <!--
